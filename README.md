@@ -1,1 +1,1 @@
-# discover-netlify-js
+# Initiation à Netlify
